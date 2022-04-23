@@ -2,6 +2,8 @@
 
 ### Hi there 👋
 
+<a href="https://www.instagram.com/pang10_u/"  target="_blank"><img src="https://img.shields.io/badge/Instagram-dd2a7b?style=flat-square&logo=Instagram&logoColor=white"/></a>
+
 <!--
 **yugwangyeol/yugwangyeol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
