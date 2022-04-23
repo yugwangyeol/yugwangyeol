@@ -4,7 +4,9 @@
 
 <a href="https://www.instagram.com/pang10_u/"  target="_blank"><img src="https://img.shields.io/badge/Instagram-dd2a7b?style=flat-square&logo=Instagram&logoColor=white"/></a>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/yugwangyeol%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com)                                     
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/yugwangyeol%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com)
+
+![yugwangyeol's github stats](https://github-readme-stats.vercel.app/api?username=yugwangyeol&show_icons=true)
 
 <!--
 **yugwangyeol/yugwangyeol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
