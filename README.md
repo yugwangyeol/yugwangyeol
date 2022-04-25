@@ -1,6 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2&height=350&section=header&text=WELCOME&fontSize=90&desc=%20This%20is%20GwangYeol's%20Github&animation=fadeIn&descSize=20&FontSize=40&descAlign=70&descAlignY=60&fontAlignY=40)
 
-### Hi there 👋
+## Hi there 👋
+Hello, I'm GwangYeol Yu, dreaming of becoming a AI Researcher specializing in Computer Vision and Medical
+
+
+
 
 <a href="https://www.instagram.com/pang10_u/"  target="_blank"><img src="https://img.shields.io/badge/Instagram-dd2a7b?style=flat-square&logo=Instagram&logoColor=white"/></a>
 
