@@ -2,8 +2,13 @@
 
 ## Hi there 👋
 Hello, I'm GwangYeol Yu, dreaming of becoming a AI Researcher specializing in Computer Vision and Medical
+I will graduate from Kookmin University in February 2025, majoring in AI Big Data Management and double majoring in computer science.
 
-
+## Contact
+[![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white)](https://www.notion.so/s-Notion-4ec0905233e042a08bf701c13b739b76)
+[![LinkedIn](https://img.shields.io/badge/Linked_In-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/%EA%B4%91%EC%97%B4-%EC%9C%A0-82aa60217/)
+[![Instagram](https://img.shields.io/badge/Instagram-dd2a7b?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/pang10_u/) 
+[![Mail](https://img.shields.io/badge/kt01054197938@gmail.com-e10915?style=flat-square&logo=Gmail&logoColor=white)](kt01054197938@gmail.com)
 
 
 <a href="https://www.instagram.com/pang10_u/"  target="_blank"><img src="https://img.shields.io/badge/Instagram-dd2a7b?style=flat-square&logo=Instagram&logoColor=white"/></a>
