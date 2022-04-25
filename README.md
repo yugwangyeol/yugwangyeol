@@ -1,8 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2&height=350&section=header&text=WELCOME&fontSize=90&desc=%20This%20is%20GwangYeol's%20Github&animation=fadeIn&descSize=20&FontSize=40&descAlign=70&descAlignY=60&fontAlignY=40)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2&height=300&section=header&text=WELCOME&fontSize=90&desc=%20This%20is%20GwangYeol's%20Github&animation=fadeIn&descSize=20&FontSize=40&descAlign=70&descAlignY=60&fontAlignY=40)
 
 
 ## Hi there 👋
-Hello, I'm GwangYeol Yu, dreaming of becoming a AI Researcher specializing in Computer Vision and Medical
+Hello, I'm GwangYeol Yu, dreaming of becoming a AI Researcher specializing in Computer Vision and Medical.
 I will graduate from Kookmin University in February 2025, majoring in AI Big Data Management and double majoring in computer science.
 
 
@@ -32,18 +32,3 @@ I will graduate from Kookmin University in February 2025, majoring in AI Big Dat
 
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2&height=150&section=footer)
-
-<!--
-**yugwangyeol/yugwangyeol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
