@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2&height=350&section=header&text=Welcome&fontSize=90&desc=%20This%20is%20GwangYeol's%20Github&animation=fadeIn&descSize=20&FontSize=40&descAlign=70&descAlignY=70)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2&height=350&section=header&text=Welcome&fontSize=90&desc=%20This%20is%20GwangYeol's%20Github&animation=fadeIn&descSize=20&FontSize=40&descAlign=70&descAlignY=70,fontAlignY=20)
 
 ### Hi there 👋
 
