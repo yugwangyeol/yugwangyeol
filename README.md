@@ -1,8 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2&height=350&section=header&text=WELCOME&fontSize=90&desc=%20This%20is%20GwangYeol's%20Github&animation=fadeIn&descSize=20&FontSize=40&descAlign=70&descAlignY=60&fontAlignY=40)
 
+
 ## Hi there 👋
 Hello, I'm GwangYeol Yu, dreaming of becoming a AI Researcher specializing in Computer Vision and Medical
 I will graduate from Kookmin University in February 2025, majoring in AI Big Data Management and double majoring in computer science.
+
 
 ## Contact
 [![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white)](https://www.notion.so/s-Notion-4ec0905233e042a08bf701c13b739b76)
@@ -18,19 +20,31 @@ I will graduate from Kookmin University in February 2025, majoring in AI Big Dat
 <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=Keras&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/> 
 <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/> 
-<img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/>
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Qgis-589632?style=flat-square&logo=Qgis&logoColor=white"/></a>
+ <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>&nbsp
 
 <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=Anaconda&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=flat-square&logo=Google Colab&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&logo=Eclipse IDE&logoColor=white"/> 
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> <
-img src="https://img.shields.io/badge/Microsoft SQL Server-CC2927?style=flat-square&logo=Microsoft SQL Server&logoColor=white"/> 
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=PyCharm&logoColor=white"/>
+<img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/> </a>
 
 
+### Platform
+<img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows&logoColor=white"/> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/>
+
+
+## Hits
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/yugwangyeol%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com)
 
+
+## GitHub Stats
 ![yugwangyeol's github stats](https://github-readme-stats.vercel.app/api?username=yugwangyeol&show_icons=true)
 
 <!--
