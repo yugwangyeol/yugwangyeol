@@ -30,6 +30,9 @@ I will graduate from Kookmin University in February 2025, majoring in AI Big Dat
 ## GitHub Stats
 ![yugwangyeol's github stats](https://github-readme-stats.vercel.app/api?username=yugwangyeol&show_icons=true)
 
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2&height=150&section=footer)
+
 <!--
 **yugwangyeol/yugwangyeol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
