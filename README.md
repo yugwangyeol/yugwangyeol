@@ -3,6 +3,7 @@
 
 ## Hi there 👋
 Hello, I'm GwangYeol Yu, dreaming of becoming a AI Researcher specializing in Computer Vision and Medical.
+
 I will graduate from Kookmin University in February 2025, majoring in AI Big Data Management and double majoring in computer science.
 
 
