@@ -31,5 +31,8 @@ I will graduate from Kookmin University in February 2025, majoring in AI Big Dat
 ## GitHub Stats
 ![yugwangyeol's github stats](https://github-readme-stats.vercel.app/api?username=yugwangyeol&show_icons=true)
 
+## Top Langes
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JIYUNHYEOK&layout=compact&theme=dark&langs_count=5)](https://github.com/yugwangyeol/github-readme-stats)
+
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2&height=150&section=footer)
