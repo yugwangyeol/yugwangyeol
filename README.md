@@ -12,7 +12,7 @@ I will graduate from Kookmin University in February 2025, majoring in AI Big Dat
 [![Mail](https://img.shields.io/badge/kt01054197938@gmail.com-e10915?style=flat-square&logo=Gmail&logoColor=white)](kt01054197938@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/Linked_In-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/%EA%B4%91%EC%97%B4-%EC%9C%A0-82aa60217/)
 
-## Portfolio
+## About me
 [![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white)](https://www.notion.so/s-Notion-4ec0905233e042a08bf701c13b739b76)
 
 ## Technical Skills
