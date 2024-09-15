@@ -2,14 +2,14 @@
 
 
 ## Hi there 👋
-Hello, I'm GwangYeol Yu, dreaming of becoming a AI Researcher specializing in Computer Vision.
-
-I will graduate from Kookmin University in February 2025, majoring in AI Big Data Management and double majoring in computer science.
-
+Hello, I'm GwangYeol Yu, dreaming of becoming a AI Devloper.  
+I'm majoring in the AI Big Data & Management, Data Science and minoring in software.  
+I'm especially interested in Computer Vision, Generative AI, Multi-Modal and eXplainable AI  
+I believe that all the experiences I've had are coming together like pieces of a puzzle to shape my future, and they will greatly influence and support my journey ahead.
 
 ## Contact
-[![Instagram](https://img.shields.io/badge/Instagram-dd2a7b?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/pang10_u/) 
 [![Mail](https://img.shields.io/badge/kt01054197938@gmail.com-e10915?style=flat-square&logo=Gmail&logoColor=white)](kt01054197938@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-dd2a7b?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/pang10_u/) 
 [![LinkedIn](https://img.shields.io/badge/Linked_In-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/%EA%B4%91%EC%97%B4-%EC%9C%A0-82aa60217/)
 
 ## About me
@@ -22,15 +22,8 @@ I will graduate from Kookmin University in February 2025, majoring in AI Big Dat
 #### Development Tools
 <img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=PyCharm&logoColor=white"/> <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/> <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=Anaconda&logoColor=white"/> <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white"/> <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=flat-square&logo=Google Colab&logoColor=white"/> <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&logo=Eclipse IDE&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/></a> 
 
-
-
 #### Platform
 <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows&logoColor=white"/> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/>
-
-
-## Hits
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/yugwangyeol%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com)
-
 
 ## GitHub Stats
 ![yugwangyeol's github stats](https://github-readme-stats.vercel.app/api?username=yugwangyeol&show_icons=true)
