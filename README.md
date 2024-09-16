@@ -13,7 +13,7 @@ I believe that all the experiences I've had are coming together like pieces of a
 [![LinkedIn](https://img.shields.io/badge/Linked_In-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/%EA%B4%91%EC%97%B4-%EC%9C%A0-82aa60217/)
 
 ## About me
-[![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white)](https://www.notion.so/s-Notion-4ec0905233e042a08bf701c13b739b76)
+[![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white)](https://festive-impatiens-b9a.notion.site/Gwangyeol-Yu-0a66687b9e114ef4b46a4a27d3b2a589?pvs=4)
 
 ## Technical Skills
 #### Languages
