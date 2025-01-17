@@ -4,7 +4,7 @@
 ## Hi there 👋
 Hello, I'm GwangYeol Yu, dreaming of becoming a AI Devloper.  
 I'm majoring in the AI Big Data & Management, Data Science and minoring in software.  
-I'm especially interested in Computer Vision, Generative AI, Anomaly Detection, Speech
+I'm especially interested in Computer Vision, Generative AI, Anomaly Detection, Speech  
 I believe that all the experiences I've had are coming together like pieces of a puzzle to shape my future, and they will greatly influence and support my journey ahead.
 
 ## Contact
